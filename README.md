@@ -2,7 +2,6 @@
 
 - 🔭 Estou procurando meu primeiro emprego
 - 🌱 Estou estudando Html, Css, Bootstrap, Javascript e Mysql
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/EduardoSilva03">
