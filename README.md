@@ -1,7 +1,7 @@
 ### Olá, sou o Eduardo da Silva
 
-- 🔭 Estou procurando meu primeiro emprego
-- 🌱 Estou estudando Html, Css, Bootstrap, Javascript e Mysql
+- 🔭 Estagiário
+- 🌱 Adquirindo conhecimentos em C#, .NET e SQL
 
 <div align="center">
   <a href="https://github.com/EduardoSilva03">
