@@ -1,8 +1,5 @@
 ### Olá, sou o Eduardo da Silva
 
-- 🔭 Estagiário
-- 🌱 Adquirindo conhecimentos em C#, .NET e SQL
-
 <div align="center">
   <a href="https://github.com/EduardoSilva03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSilva03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
